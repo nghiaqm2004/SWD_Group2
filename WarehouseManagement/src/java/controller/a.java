@@ -9,6 +9,5 @@ package controller;
  * @author nglon
  */
 public class a {
-    ưqeqwedá
+    12345
 }
-sdgadafasfasfassfasfas
